@@ -1,5 +1,5 @@
 # SimpleLogger-DX9
-Simple model logger for 3D games/applications using DirectX 9 x86 only, if you wish to use this for 64 bit games you will need to update the hooking method as MS Detours 1.5 only supports x86.
+Simple model logger for 3D games/applications using DirectX 9 x86.
 
 ## Prerequisites
 ```
