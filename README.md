@@ -1,6 +1,5 @@
 # SimpleLogger-DX9
-Simple model logger for 3D games/applications using DirectX 9 x86 only you will need to update the hooking method as MS Detours 1.5
-the library that is used for hooking the vtable functions only supports 32 bit applications you can easily update this yourself.
+Simple model logger for 3D games/applications using DirectX 9 x86 only, if you wish to use this for 64 bit games you will need to update the hooking method as MS Detours 1.5 only supports x86.
 
 ## Prerequisites
 ```
