@@ -7,3 +7,9 @@ MS DirectX SDK (November 2008) https://www.microsoft.com/en-us/download/details.
 MS Detours 1.5
 Visual Studio (2012 and up)
 ```
+## Controls
+```
+ARROW KEYS - Navigate list menu and modify Stride, NumVertices, primCount (if 0 then it is not filtered by the logger)
+L - Log model to console window
+END - Unhook and uninject
+```
